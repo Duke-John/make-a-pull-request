@@ -1,5 +1,5 @@
 # Duke John Tiwari
 
-## 3st Year, Chemical
+## 3rd Year, Chemical
 
 ## c++, Java
